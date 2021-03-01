@@ -1,0 +1,12 @@
+.cart{
+    border: 1px solid gray;
+    margin-top: 20px;
+    border-radius:10px;
+    color: white;
+    padding-left: 15px;
+    background-color:#03A9F4
+}
+.cart-header{
+    text-align: center;
+    padding: 10px;
+}

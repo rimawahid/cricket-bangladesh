@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Shakib Al Hasan",
+        "img":"https://i.ibb.co/LZsvdCM/shakib.jpg",
+        "age":"33 years 341 days",
+        "role": "Allrounder",
+        "salary":200
+    },
+    {
+        "id": 2,
+        "name": "Imrul Kayes",
+        "img":"https://i.ibb.co/0MFxWLm/imrul-kayes.jpg",
+        "age":"34 years 26 days",
+        "role": "Opening batsman",
+        "salary":180
+    },
+    {
+        "id": 3,
+        "name": "Mashrafe Bin Mortaza",
+        "img":"https://i.ibb.co/PZP9Rtv/mashrafe-mortaza.jpg",
+        "age":"37 years 146 days",
+        "role": "Bowler",
+        "salary":200
+    },
+    {
+        "id": 4,
+        "name": "Mominul Haque",
+        "img":"https://i.ibb.co/bQ9r049/mominul-haque.jpg",
+        "age":"29 years 152 days",
+        "role": "Middle-order batsman",
+        "salary":150
+    },
+    {
+        "id": 5,
+        "name": "Mehidy Hasan Miraz",
+        "img":"https://i.ibb.co/R9scddy/mehidy-hasan-miraz.jpg",
+        "age":"23 years 126 days",
+        "role": "Allrounder",
+        "salary":150
+    },
+    {
+        "id": 6,
+        "name": "Mohammad Mushfiqur Rahim",
+        "img":"https://i.ibb.co/4sfD0Cq/musfiqur-rahim.jpg",
+        "age":"33 years 295 days",
+        "role": "Right-hand bat",
+        "salary":150
+    },
+    {
+        "id": 7,
+        "name": "Mustafizur Rahman",
+        "img":"https://i.ibb.co/bNrFWnW/mustafizur-rahman.jpg",
+        "age":"25 years 175 days",
+        "role": "Bowler",
+        "salary":150
+    },
+    {
+        "id": 8,
+        "name": "Mohammad Nayeem Hasan",
+        "img":"https://i.ibb.co/124HyPy/nayeem-hasan.jpg",
+        "age":"21 years 16 days",
+        "role": "Bowler",
+        "salary":150
+    },
+    {
+        "id": 9,
+        "name": "Soumya Sarkar",
+        "img":"https://i.ibb.co/Y8Q0XXV/soumo-sarkar.jpg",
+        "age":"28 years 3 days",
+        "role": "Middle-order batsman",
+        "salary":150
+    },
+    {
+        "id": 10,
+        "name": "Tamim Iqbal Khan",
+        "img":"https://i.ibb.co/LthpP9p/tamim-iqbal.jpg",
+        "age":"31 years 345 days",
+        "role": "Opening batsman",
+        "salary":150
+    }
+]
